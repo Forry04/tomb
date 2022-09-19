@@ -32,6 +32,8 @@ namespace tomb
                 Console.WriteLine($"{i+1}. elem: {tomb[i]}");
             }*/
 
+            //asd
+
             Console.ReadKey();
 
         }
